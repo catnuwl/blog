@@ -1,4 +1,0 @@
-[submodule "nuwlblog/public"]
-	path = nuwlblog/public
-	url = https://github.com/catnuwl/nuwl.github.io.git
-	branch = main
